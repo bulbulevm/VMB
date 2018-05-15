@@ -1,5 +1,13 @@
 package com.tesm.demo;
 
-public class Demo4 {
+import org.testng.annotations.Test;
 
+public class Demo4 
+{
+
+	@Test
+	public void mango()
+	{
+		System.out.println("ghghghg");
+	}
 }
